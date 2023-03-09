@@ -1,7 +1,8 @@
 # HexWorldGenerator
 
-Procedural Mesh generation programmed in C#
-Implementation of Gaussian Noise Function to displace hex height.
++ Procedural Mesh Generation
++ Gaussian Noise Function to displace hex height
++ Hexagon Based Grid
 
 
 
