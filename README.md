@@ -1,6 +1,14 @@
 # HexWorldGenerator
 
+Procedural Mesh generation programmed in C#
+Implementation of Gaussian Noise Function to displace hex height.
+
+
+
+
 ![hex_wip_7](https://user-images.githubusercontent.com/61420690/143778108-d9437579-77bb-4d1f-a935-bd5b134994c0.png)
+
+# Offset-Calculation
 
 ![hexmetrics_xOffset](https://user-images.githubusercontent.com/61420690/143778073-4e574937-89ff-4826-a573-211e9eb70c33.png)
 ![hexmetrics](https://user-images.githubusercontent.com/61420690/143778074-9a12c1f5-9600-4ddb-95a4-b4df1d343863.png)
